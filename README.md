@@ -14,3 +14,7 @@ Java, Spring Boot, MySQL, Git, Linux (basic), JavaScript (basic), Nostr (basic),
 - Lightning Network internals
 - DevOps basics (Docker, CI/CD)
 
+### 🚀 Featured Project
+
+- [**Twallet** ]([https://github.com/твоето-потребителско-име/Twallet](https://github.com/Sideroff-D/TWallet-Bitcoin-Testnet))  
+
